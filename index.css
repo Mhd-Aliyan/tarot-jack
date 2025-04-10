@@ -34,3 +34,9 @@ button {
     font-size: 20px;
     margin-bottom: 10px;
 }
+
+#dev-message {
+    font-family: "Germania One", system-ui;
+    color: goldenrod;
+    size: 20px;
+}
