@@ -1,0 +1,36 @@
+
+body {
+    background-image:url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: "Germania One", system-ui;
+    color: goldenrod;
+    
+}
+.container {
+    padding: 120px;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    
+}
+
+#message-el {
+    color: goldenrod;
+    
+}
+
+button {
+    background-color: goldenrod;
+    width: 150px;
+    color: #212121;
+    font-family: "Germania One", system-ui;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
